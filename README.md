@@ -15,3 +15,5 @@ Step 3 — Enforce Integrity with Cryptography
 
 Hash each block.
 Reference each block's hash in its subsequent block.
+
+Step 4
