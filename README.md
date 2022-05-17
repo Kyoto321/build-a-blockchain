@@ -1,3 +1,5 @@
+## Description
+
 This repo takes you through building a prototype of a blockchain in Python. It is intended for learning purposes.
 
 Step 1 — Create a Block
@@ -16,4 +18,6 @@ Step 3 — Enforce Integrity with Cryptography
 Hash each block.
 Reference each block's hash in its subsequent block.
 
-Step 4
+## Local Development
+
+1. Open index.py on your browser
