@@ -1,17 +1,14 @@
 ## Description
 
-This repo takes you through building a website application with django in Python.
+This repo takes you through building a full feature website application using django framework in Python.
 
-Step 1 — Create a blog app
+## Subheader
+A blog App where different users can write different posts, create, update and delete posts.. Also create authentication system, where users can register/create a new account, log in and log outStep 1 — Create a blog app
 
-Create the Blog App.
-Input the blog app in settings.py url.
-Create a models.py to process and accept parameters.
+Step 1 - Installing packages needed to get started out 
+Create a Blog App using django framework.
 
-
-Populate the Block with Transactions.
-
-Step 2 — Chain the Blocks Together
+Step 2 — Create a function that handles traffic and take in request arguments
 
 Create Blocks from Transactions.
 Append Blocks to a "Chain" (list).
