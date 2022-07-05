@@ -1,11 +1,14 @@
 ## Description
 
-This repo takes you through building a prototype of a blockchain in Python. It is intended for learning purposes.
+This repo takes you through building a website application with django in Python. It is intended for learning purposes.
 
-Step 1 — Create a Block
+Step 1 — Create a blog app
 
-Create the Block.
-Create a Transaction.
+Create the Blog App.
+Input the blog app in settings.py url.
+Create a models.py to process and accept parameters.
+
+
 Populate the Block with Transactions.
 
 Step 2 — Chain the Blocks Together
