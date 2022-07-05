@@ -1,6 +1,6 @@
 ## Description
 
-This repo takes you through building a website application with django in Python. It is intended for learning purposes.
+This repo takes you through building a website application with django in Python.
 
 Step 1 — Create a blog app
 
