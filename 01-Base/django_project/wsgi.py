@@ -6,7 +6,6 @@ https://docs.djangoproject.com/en/2.1/howto/deployment/wsgi/
 """
 
 import sys
-sys.path.append('/opt/server/settings')
 
 import os
 
