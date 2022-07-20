@@ -33,7 +33,6 @@ ALLOWED_HOSTS = ['myblogforum.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'blog.apps.BlogConfig',
     'django.contrib.admin',
     'crispy_forms',
     'django.contrib.auth',
